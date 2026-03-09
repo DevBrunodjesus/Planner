@@ -1,2 +1,2 @@
 # Planner
-Repositorio_teste
+Projeto de planner online para estudos
