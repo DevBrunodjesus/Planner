@@ -1,7 +1,7 @@
 <?php
 require 'conexao.php';
 
-// Se já logado, vai direto para o planner
+// Se já logado, vai direto para o planner !
 if (estaLogado()) {
     header('Location: dashboard.php');
     exit();
